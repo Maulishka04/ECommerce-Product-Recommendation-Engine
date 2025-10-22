@@ -1,0 +1,35 @@
+# Compiled class files
+**/target/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse/IntelliJ
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Maven wrapper
+/.mvn/
+
+# Local Maven repository (do NOT include)
+#%USERPROFILE%\.m2\repository
+
+# Environment files (do not commit)
+*.env
+secret*.properties
